@@ -1,0 +1,9 @@
+O:\usuario2\Mis Programas\RenameFile\RenameFile\bin\Debug\RenameFile.exe
+O:\usuario2\Mis Programas\RenameFile\RenameFile\bin\Debug\RenameFile.pdb
+O:\usuario2\Mis Programas\RenameFile\RenameFile\bin\Debug\RenameFile.xml
+O:\usuario2\Mis Programas\RenameFile\RenameFile\obj\x86\Debug\RenameFile.Form1.resources
+O:\usuario2\Mis Programas\RenameFile\RenameFile\obj\x86\Debug\RenameFile.Resources.resources
+O:\usuario2\Mis Programas\RenameFile\RenameFile\obj\x86\Debug\RenameFile.vbproj.GenerateResource.Cache
+O:\usuario2\Mis Programas\RenameFile\RenameFile\obj\x86\Debug\RenameFile.exe
+O:\usuario2\Mis Programas\RenameFile\RenameFile\obj\x86\Debug\RenameFile.xml
+O:\usuario2\Mis Programas\RenameFile\RenameFile\obj\x86\Debug\RenameFile.pdb
