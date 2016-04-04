@@ -3,7 +3,7 @@
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
         Dim directorio As IO.FileInfo() = New IO.DirectoryInfo(TextBox1.Text).GetFiles()
         Dim count As Integer = directorio.Length
-        MsgBox(count)
+        'MsgBox(count)
         Dim fichero As IO.FileInfo
         ProgressBar1.Maximum = count
         ProgressBar1.Value = 0
